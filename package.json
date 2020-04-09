@@ -1,0 +1,12 @@
+{
+	"name": "scrollable-sidebar",
+	"title": "Scrollable Sidebar",
+	"description": "Taller Working Files + ability to scroll past them to get to Project selector and Project Files.",
+	"homepage": "",
+	"version": "1.0.0",
+	"author": "",
+	"license": "",
+	"engines": {
+		"brackets": ">=1.14.2"
+	}
+}
