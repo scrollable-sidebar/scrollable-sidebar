@@ -2,9 +2,9 @@
 	"name": "scrollable-sidebar",
 	"title": "Scrollable Sidebar",
 	"description": "Taller Working Files + ability to scroll past them to get to Project selector and Project Files.",
-	"homepage": "",
-	"version": "1.0.0",
-	"author": "",
+	"homepage": "https://github.com/scrollable-sidebar/scrollable-sidebar",
+	"version": "1.0.1",
+	"author": "Scrollable Sidebar",
 	"license": "",
 	"engines": {
 		"brackets": ">=1.14.2"
